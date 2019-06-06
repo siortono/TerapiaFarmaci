@@ -1,0 +1,12 @@
+[
+{
+"Farmaco1": "Tachipirina",
+"Farmaco2": "Valium",
+"Controindicazioni": "Coma"
+},
+{
+"Farmaco1": "Tachipirina",
+"Farmaco2": "Amiodarone",
+"Controindicazioni": "Compatibile"
+}
+]
